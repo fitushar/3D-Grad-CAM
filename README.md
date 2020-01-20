@@ -4,4 +4,4 @@ Grad-CAM is a nice way to visualize what is your CNN model is actually looking f
 
 This repo contains a code to visualize Grad-CAM using Tensorflow 2.0. To know more about Grad-CAM please read this paper https://arxiv.org/pdf/1610.02391.pdf
 
-![model Architecture](https://github.com/fitushar/3D-Grad-CAM/tree/master/Figure/Grad-CAM.png)
+![GradCAM](https://github.com/fitushar/3D-Grad-CAM/tree/master/Figure/Grad-CAM.png)
