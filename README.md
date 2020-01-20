@@ -7,7 +7,7 @@ This repo contains a code to visualize Grad-CAM using Tensorflow 2.0. To know mo
 ![GradCAM](https://github.com/fitushar/3D-Grad-CAM/blob/master/Figure/Grad-CAM.png)
 
 # System requirement
--python 3
--Tenorflow 2.0
--OpenCV
--Matplot
+- python 3
+- Tenorflow 2.0
+- OpenCV
+- Matplot
