@@ -1,6 +1,7 @@
 # 3D-Grad-CAM
 Grad-CAM is a nice way to visualize what is your CNN model is actually looking for the prediction of the class with respect to the epecific Layer.
 
+You can also have a look updated repo "3D-GuidedGradCAM-for-Medical-Imaging" : https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging
 
 This repo contains a code to visualize Grad-CAM using Tensorflow 2.0. To know more about Grad-CAM please read this paper https://arxiv.org/pdf/1610.02391.pdf
 
